@@ -1,3 +1,5 @@
 
 MindLine 是一款特别不错，简洁小众的思维导图工具
 太极是 一个不需要Root，不需要刷机就可以体验Xposed 插件的App
+谷歌 Chrome 插件  https://guozh.net/google-chrome-extensions-1/
+
